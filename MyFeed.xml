@@ -13,5 +13,12 @@
       <description>Plan for the end of your career</description>
     </item>
 
+    <!-- Article -->
+    <item>
+      <title>Wikipedia discussion on spelling of yogurt</title>
+      <link>https://en.wikipedia.org/wiki/Talk:Yogurt/yogurtspellinghistory</link>
+      <description>A beautiful waste of time</description>
+    </item>
+
   </channel>
 </rss>
