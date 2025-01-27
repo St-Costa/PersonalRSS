@@ -20,5 +20,12 @@
       <description>A beautiful waste of time</description>
     </item>
 
+    <!-- Article -->
+    <item>
+      <title>The "legalese" language</title>
+      <link>https://news.mit.edu/2024/mit-study-explains-laws-incomprehensible-writing-style-0819</link>
+      <description>Lawyers and authority...</description>
+    </item>
+
   </channel>
 </rss>
